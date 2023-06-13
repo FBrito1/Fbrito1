@@ -1,8 +1,8 @@
 
 Hi my name is Fabio, welcome to my github profile!
 
-- 🌱 I’m currently learning Devops and Microservices Architecture
-- 💬 Ask me about Javascript, React and Nodejs.
+- 🌱 I’m currently learning Rust.
+- 💬 Ask me about backend solutions.
 - ⚡ Fun fact: I love The office.
 
 ![Michael scott](https://media.giphy.com/media/6wmz6Qo40eTDf4tW3Z/giphy.gif)
